@@ -1,6 +1,6 @@
 # RP2040 60-Key USB Keyboard II
 
-A hand-wired USB keyboard for Deonte Lamar Merritt, Merritt Robotics Inc. Sixty MX-style keys sit in a 5 by 12 ortholinear grid. A Raspberry Pi Pico (RP2040) scans the matrix and sends USB HID keyboard reports with QMK Firmware.
+A hand-wired USB keyboard created by me  Deonte Lamar Merritt, Merritt Robotics Inc. Sixty MX-style keys sit in a 5 by 12 ortholinear grid. A Raspberry Pi Pico (RP2040) scans the matrix and sends USB HID keyboard reports with QMK Firmware.
 
 The Pico's own micro-USB socket is the keyboard cable port. This version is the Pico module plus a wired matrix. It is not a custom PCB built around a bare RP2040.
 
